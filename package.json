@@ -18,7 +18,7 @@
     "cors": "2.7.1",
     "csurf": "1.8.3",
     "data2xml": "1.2.4",
-    "ejs-mate": "2.3.0",
+    "ejs-mate": "3.0.0",
     "eventproxy": "0.3.4",
     "express": "4.15.2",
     "express-session": "1.12.1",
